@@ -104,6 +104,7 @@ order by 1,2
 --**b. Number of Vaccine dose given per million population:**
 --   - How many vaccine doses have been given till a given date per Hundred people per country?
 
+--**ANSWER**
 SELECT cv.continent
 	, cv.location
 	, date
