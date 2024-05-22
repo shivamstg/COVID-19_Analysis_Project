@@ -46,3 +46,6 @@ To answer the above questions, I formulated SQL queries and executed them on the
 This project highlights the importance of data analysis and visualization in understanding and combating the COVID-19 pandemic. By using SQL and Tableau, I have provided a comprehensive overview of the pandemic's global impact and the effectiveness of vaccination efforts.
 
 Feel free to explore the Tableau Dashboard and the SQL queries in this repository. Thank you for visiting!
+
+#### Visit the link below for the operation dashboard:
+https://public.tableau.com/views/Covid-19VaccinationEfficacyAnalysis/Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
