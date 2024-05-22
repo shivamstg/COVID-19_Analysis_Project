@@ -36,7 +36,7 @@ The main objective is to understand the global spread of COVID-19 and assess the
 To answer the above questions, I formulated SQL queries and executed them on the respective tables. The results were then exported to Tableau for visualization.
 
 ### Tableau Dashboard
-  - The Tableau dashboard includes the following visualizations:
+The Tableau dashboard includes the following visualizations:
   - Global Numbers: Displays world population, total people vaccinated, total cases, total deaths, and death percentage in a table format.
   - Total COVID-19 Deaths Per Continent: A bar chart showing the total number of confirmed COVID-19-related deaths per continent.
   - Percent Population Infected per Country: A map illustrating the percentage of the population infected with COVID-19 in each country.
