@@ -1,18 +1,3 @@
-﻿--Countries' information Table
-SELECT top (1000) *
-FROM CovidProject..covidCountries
-
---COVID cases and death Table
-SELECT top (1000) *
-FROM CovidProject..CovidDeaths
-ORDER by 3,4
-
---COVID Vaccinations Table
-SELECT top (1000) *
-FROM CovidProject..CovidVaccinations
-ORDER by 3,4
-
-
 --***QUESTIONS***
 
 --### 1. Global Numbers
@@ -120,10 +105,7 @@ ORDER by 2,3
 --**a. COVID-19 Death Count per Continent:**
 --   - What is the total number of confirmed COVID-19-related deaths per continent?
 
---total covid deaths per continent per country (by two methonds: sum and max)(done for drill down effect in tableau)
-
 --**ANSWER**
---SUM
 SELECT continent, location, sum(new_deaths) as TotalCovidDeaths
 FROM CovidProject..CovidDeaths
 WHERE continent is not null
