@@ -47,5 +47,5 @@ This project highlights the importance of data analysis and visualization in und
 
 Feel free to explore the Tableau Dashboard and the SQL queries in this repository. Thank you for visiting!
 
-#### Visit the link below for the operation dashboard:
+#### Visit the link below for the operation Tableau dashboard:
 https://public.tableau.com/views/Covid-19VaccinationEfficacyAnalysis/Dashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
